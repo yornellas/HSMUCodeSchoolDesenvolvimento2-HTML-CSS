@@ -1,4 +1,4 @@
-# HSMUDesencolvimento2
+# HSMUDesenvolvimento2
 Desenvolvimento 2 do Módulo de HTML, CSS / Sass da CodeSchool da HSMU
 
 Conforme o layout apresentado na imagem em anexo, crie uma página para uma loja que vende livros usados.
